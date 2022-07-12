@@ -611,6 +611,10 @@ The 2 items above are not owned by me, They go to there respected owners
 		height: 30px;
 		margin: 0px;
 	}
+	#app-mount .typeWindows-2-g3UY:after {
+		content: "Ezy Was Here";
+		color: rgb(255,255,255,0.5);
+		font-weight: 500;
 
 		position: absolute;
 		top: 8px;
